@@ -1,0 +1,20 @@
+{
+    "posts":[
+        {
+        "name": "Tom",
+        "location": "New York",
+        "bloodGroup": "B+",
+        "age": 28,
+        "profileImg": "https://www.w3schools.com/howto/img_avatar.png",
+        "EmployeeID": 123435,
+        "Appointment": "09-00 (24-05-2022)",
+        "email": "abcd@gmail.com",
+        "phone": "112-4564214678",
+        "status": "In-progress",
+        "door": "Mark",
+        "time": "10.30 (25-05-2022)",
+        "proName": "Lorem Ipsum",
+        "proDesc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+        }
+  ]
+}
